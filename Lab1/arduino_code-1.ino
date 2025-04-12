@@ -1,5 +1,3 @@
-// Name: GUNARATHNA DMNS
-// Index Number: 220185P
 
 const int buttonPins[8] = {2,3,4,5,6,7,8,9}; // Push button pins
 const int frequencies[8] = {300, 400, 500, 600, 700, 800, 900, 1000}; // Assigned frequencies
