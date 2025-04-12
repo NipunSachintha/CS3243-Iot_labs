@@ -1,5 +1,3 @@
-// Name: GUNARATHNA DMNS
-// Index Number: 220689N
 
 //Define button pins, speaker pin, and the frequencies
 const int buttons[] = {2, 3, 4, 5, 6, 7, 8, 9};
